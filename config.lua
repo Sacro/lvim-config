@@ -200,6 +200,9 @@ lvim.builtin.treesitter.highlight.enable = true
 lvim.plugins = {
   {
     "RRethy/nvim-base16"
+  },
+  {
+    "pantharshit00/vim-prisma"
   }
 --     {
 --       "folke/trouble.nvim",
